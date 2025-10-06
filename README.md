@@ -19,8 +19,8 @@ You can find my Linkedin at : www.linkedin.com/in/mardihem
 - **Visualization:** Power BI, Tableau, Excel, ggplot2, matplotlib  
 - **Data Practices:** ETL, regression modeling, logistic regression, hypothesis testing, data validation 
 
-Projects:
-Data Analysis: Students' Mental Health
+## Datacamp Projects
+- **Data Analysis: Students' Mental Health** 
 https://www.datacamp.com/datalab/w/f8f40431-b15a-4f09-b85a-afe2039bc7c0/edit
-Data Analysis: Predicting Credit Default & Wage Growth Forecast
+- **Data Analysis: Predicting Credit Default & Wage Growth Forecast** 
 https://www.datacamp.com/datalab/w/8cb40bf9-0277-400a-81be-af7773f38e29/edit
